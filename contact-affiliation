@@ -1,0 +1,26 @@
+<!Doctype html>
+<html>
+  <head>
+    <title> premier site heberger gratuitement </title>
+    <meta charset="UTF-8 />
+    <style>
+    img {
+    display: Block;
+    margin-left: auto;
+    margin-right: auto;
+  p{
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+  hl {
+    text-align : center;
+    }
+    </style>
+    </head>
+    <body>
+      <hl text-align="center" > Bienvenue sur ma chaine : contact-affiliation </hl>
+      <img src="contact-affiliation.png" alt="logo contact-affiliaton" />
+      <p><a href="https://www.youtube.com/channel/UCyWGt2jLbZz4IKjlYjmBasw"> abonnez vous </a></p>
+    </body>
+  </html>  
